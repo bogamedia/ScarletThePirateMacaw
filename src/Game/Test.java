@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Game.Assets;
+package Game;
 
 /**
  *
  * @author boga
  */
-public class Assets
+public class Test
 {
 
 }
