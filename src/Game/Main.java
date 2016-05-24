@@ -9,7 +9,7 @@ package Game;
  *
  * @author boga
  */
-public class Test
+public class Main
 {
 
 }
